@@ -1,4 +1,5 @@
 #include "main.hpp"
+#include <iostream>
 
 void initGenerator(PRNG &generator)
 {
