@@ -4,7 +4,6 @@
 #include <vector>
 #include <random>
 #include <ctime>
-#include <iostream>
 
 struct Ball
 {
